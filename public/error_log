@@ -1,0 +1,12 @@
+[27-May-2016 15:04:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/andarate/public_html/siolong/storage/framework/views/4eb511bdda0b2fd3c0f50a836c9fbe9a063fc25c.php on line 64
+[27-May-2016 15:04:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/andarate/public_html/siolong/storage/framework/views/4eb511bdda0b2fd3c0f50a836c9fbe9a063fc25c.php on line 64
+[27-May-2016 15:04:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/andarate/public_html/siolong/storage/framework/views/4eb511bdda0b2fd3c0f50a836c9fbe9a063fc25c.php on line 64
+[27-May-2016 15:04:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/andarate/public_html/siolong/storage/framework/views/4eb511bdda0b2fd3c0f50a836c9fbe9a063fc25c.php on line 64
+[27-May-2016 21:14:43 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on a non-object in /home/andarate/public_html/siolong/app/Http/Controllers/Auth/AuthController.php on line 88
+[27-May-2016 21:15:03 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on a non-object in /home/andarate/public_html/siolong/app/Http/Controllers/Auth/AuthController.php on line 88
+[27-May-2016 21:31:51 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on a non-object in /home/andarate/public_html/siolong/app/Http/Controllers/Auth/AuthController.php on line 88
+[27-May-2016 23:16:19 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on a non-object in /home/andarate/public_html/siolong/app/Http/Controllers/Auth/AuthController.php on line 88
+[28-May-2016 02:30:15 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/andarate/public_html/siolong/app/Http/Controllers/AdminBarangController.php on line 206
+[28-May-2016 02:30:26 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/andarate/public_html/siolong/app/Http/Controllers/AdminBarangController.php on line 206
+[04-Jun-2016 23:37:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/andarate/public_html/siolong/app/Cart.php on line 32
+[04-Jun-2016 23:52:44 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/andarate/public_html/siolong/app/Cart.php on line 32
